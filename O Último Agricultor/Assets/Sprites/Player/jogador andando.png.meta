@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: b1d4007830ea2d74ea0f9356aa557f82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8309804201786246650
+    second: jogador andando_0
+  - first:
+      213: 8349306804083279435
+    second: jogador andando_1
+  - first:
+      213: -4244715077256517623
+    second: jogador andando_2
+  - first:
+      213: -7744667583598540388
+    second: jogador andando_3
+  - first:
+      213: -8276125183223019357
+    second: jogador andando_4
+  - first:
+      213: -1429598658778256514
+    second: jogador andando_5
+  - first:
+      213: -2751675912139349187
+    second: jogador andando_6
+  - first:
+      213: 8500332156818325940
+    second: jogador andando_7
+  - first:
+      213: -237766843391719617
+    second: jogador andando_8
+  - first:
+      213: 3771968199980342555
+    second: jogador andando_9
+  - first:
+      213: 5921014771668765585
+    second: jogador andando_10
+  - first:
+      213: 7513746931131386457
+    second: jogador andando_11
+  - first:
+      213: 5714320147333044739
+    second: jogador andando_12
+  - first:
+      213: -2039056863095137396
+    second: jogador andando_13
+  - first:
+      213: -5949082681634371456
+    second: jogador andando_14
+  - first:
+      213: -3043287639719427650
+    second: jogador andando_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jogador andando_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 223
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a7b7f0b15adac80800000000000000
+      internalID: -8309804201786246650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 245
+        width: 181
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46c2224d42bed370800000000000000
+      internalID: 8349306804083279435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 234
+        width: 187
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908616f602eb715c0800000000000000
+      internalID: -4244715077256517623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_3
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 246
+        width: 179
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994020add9658490800000000000000
+      internalID: -7744667583598540388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 226
+        width: 182
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c351aefb452d80800000000000000
+      internalID: -8276125183223019357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 233
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba52c189b092ce0800000000000000
+      internalID: -1429598658778256514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_6
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 264
+        width: 187
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d336fef365510d9d0800000000000000
+      internalID: -2751675912139349187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 266
+        width: 178
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18cf75f0f37f570800000000000000
+      internalID: 8500332156818325940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374540d05843bcf0800000000000000
+      internalID: -237766843391719617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 15
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd5e7d719b85430800000000000000
+      internalID: 3771968199980342555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2
+        width: 191
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b482f509bab2250800000000000000
+      internalID: 5921014771668765585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 6
+        width: 185
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a844a3601364860800000000000000
+      internalID: 7513746931131386457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_12
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2
+        width: 182
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad4a2f5e75d4f40800000000000000
+      internalID: 5714320147333044739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 4
+        width: 189
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b546e1690d3b3e0800000000000000
+      internalID: -2039056863095137396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_14
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3
+        width: 186
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08841c512dc907da0800000000000000
+      internalID: -5949082681634371456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jogador andando_15
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 25
+        width: 190
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1cf25040214c5d0800000000000000
+      internalID: -3043287639719427650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jogador andando_0: -8309804201786246650
+      jogador andando_1: 8349306804083279435
+      jogador andando_10: 5921014771668765585
+      jogador andando_11: 7513746931131386457
+      jogador andando_12: 5714320147333044739
+      jogador andando_13: -2039056863095137396
+      jogador andando_14: -5949082681634371456
+      jogador andando_15: -3043287639719427650
+      jogador andando_2: -4244715077256517623
+      jogador andando_3: -7744667583598540388
+      jogador andando_4: -8276125183223019357
+      jogador andando_5: -1429598658778256514
+      jogador andando_6: -2751675912139349187
+      jogador andando_7: 8500332156818325940
+      jogador andando_8: -237766843391719617
+      jogador andando_9: 3771968199980342555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
