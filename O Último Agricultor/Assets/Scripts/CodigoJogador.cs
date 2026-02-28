@@ -5,9 +5,10 @@ public class CodigoJogador : MonoBehaviour
 {
 
     public float velocidadeJogador;
+    public Animator oAnimador;
     void Start()
     {
-        
+        oAnimador = GetComponent <Animator>();
     }
      void Update()
      {
@@ -28,6 +29,15 @@ public class CodigoJogador : MonoBehaviour
         if (comandosTeclado < -0.01f)
         {
             GetComponent < SpriteRenderer > ().flipX = true;
+        }
+
+        if (comandosTeclado == 0)
+        {
+            oAnimador.Play("jogadorParado");
+        }
+        else
+        {
+            oAnimador.Play("jogadorAndando");
         }
     }
 }

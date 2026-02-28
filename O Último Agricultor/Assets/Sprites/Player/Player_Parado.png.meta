@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 34cb8ca61dfb9584099aa5b74937a903
+guid: 503984c273502c7418dd33f5b102349e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2425179242502287828
-    second: jogador parado_0
+      213: 1975796005800432181
+    second: Player_Parado_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: jogador parado_0
+      name: Player_Parado_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 557
-        height: 476
+        x: 27
+        y: 24
+        width: 146
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d1fff10ca7f7a120800000000000000
-      internalID: 2425179242502287828
+      spriteID: 532de52cfff6b6b10800000000000000
+      internalID: 1975796005800432181
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      jogador parado_0: 2425179242502287828
+      Player_Parado_0: 1975796005800432181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
