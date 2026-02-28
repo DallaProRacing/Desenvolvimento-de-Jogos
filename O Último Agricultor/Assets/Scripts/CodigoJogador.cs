@@ -49,4 +49,9 @@ public class CodigoJogador : MonoBehaviour
         quantidadeMoedas += 1;
     }
 
+
+    public void gamerOver()
+    {
+        Debug.Log("GAMER OVER");
+    }
 }
