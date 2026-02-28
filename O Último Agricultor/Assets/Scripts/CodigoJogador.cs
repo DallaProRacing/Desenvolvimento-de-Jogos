@@ -1,11 +1,14 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class CodigoJogador : MonoBehaviour
 {
 
     public float velocidadeJogador;
     public Animator oAnimador;
+
+    public int quantidadeMoedas;
     void Start()
     {
         oAnimador = GetComponent <Animator>();
@@ -40,4 +43,10 @@ public class CodigoJogador : MonoBehaviour
             oAnimador.Play("jogadorAndando");
         }
     }
+
+    public void AumentarQuantidadeMoedas()
+    {
+        quantidadeMoedas += 1;
+    }
+
 }
