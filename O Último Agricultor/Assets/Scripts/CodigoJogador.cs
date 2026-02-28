@@ -1,7 +1,8 @@
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
-
+using UnityEngine.UI;
+using TMPro;
 public class CodigoJogador : MonoBehaviour
 {
 
@@ -9,13 +10,19 @@ public class CodigoJogador : MonoBehaviour
     public Animator oAnimador;
 
     public int quantidadeMoedas;
+
+    public TMP_Text textoMoedasAtuais;
+
     void Start()
     {
+        quantidadeMoedas = 0;
+        textoMoedasAtuais.text = "X" + quantidadeMoedas;
         oAnimador = GetComponent <Animator>();
     }
      void Update()
      {
         MovimentarJogador();
+        
      }
 
      public void MovimentarJogador()
@@ -47,6 +54,7 @@ public class CodigoJogador : MonoBehaviour
     public void AumentarQuantidadeMoedas()
     {
         quantidadeMoedas += 1;
+        textoMoedasAtuais.text = "x" + quantidadeMoedas;
     }
 
 
