@@ -13,6 +13,12 @@ public class CodigoJogador : MonoBehaviour
 
     public TMP_Text textoMoedasAtuais;
 
+    public GameObject painelGameOver;
+
+    public TMP_Text textoPontuacao;
+
+    public TMP_Text textoHighScore;
+
     void Start()
     {
         quantidadeMoedas = 0;
@@ -60,6 +66,17 @@ public class CodigoJogador : MonoBehaviour
 
     public void gamerOver()
     {
-        Debug.Log("GAMER OVER");
+        Time.timeScale = 0f;
+        painelGameOver.SetActive(true);
+        textoPontuacao.text = "Pontuação: " + quantidadeMoedas;
+
+        if (quantidadeMoedas > PlayerPrefs.GetInt("HighScore"))
+        {
+            PlayerPrefs.SetInt("HighScore",quantidadeMoedas);
+        }
+
+        textoHighScore.text = "High Score: " + PlayerPrefs.GetInt("HighScore");
+        
+        Debug.Log("GAME OVER");
     }
 }
